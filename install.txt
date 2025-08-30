@@ -1,0 +1,3 @@
+.\vcpkg install boost-beast:x64-windows-static openssl:x64-windows-static
+
+.\vcpkg integrate install
