@@ -1,9 +1,9 @@
 # Global Chat: Rocket League Plugin
 
 <p align="center">
-  <a href="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX">
+  <!-- <a href="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX">
     <img src="https://img.shields.io/badge/BakkesMod-Download%20Plugin-blue" alt="Download">
-  </a>
+  </a> -->
   <a href="https://github.com/eimantaslimba/global-chat/releases/latest">
     <img src="https://img.shields.io/github/v/release/eimantaslimba/global-chat" alt="Latest Release">
   </a>
@@ -37,7 +37,7 @@ There are two ways to install the plugin. The first method is highly recommended
 
 ### Recommended Method (via BakkesMod Plugin Manager)
 
-1.  Go to the **Global Chat** page on the [BakkesMod Plugins website](https://XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.com)
+1.  Go to the **Global Chat** page on the BakkesMod Plugins website <!-- [BakkesMod Plugins website](https://XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.com) -->
 2.  Click "Install with BakkesMod".
 3.  The plugin will be automatically installed and updated. That's it!
 
